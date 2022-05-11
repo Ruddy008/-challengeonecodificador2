@@ -1,0 +1,57 @@
+body{
+  margin: 0px;
+  padding:0px;
+  background:grey;
+}
+.container{
+  margin:auto;
+  widht: 960px;
+  height: 650px;
+  padding: 5px;
+  background: orange;
+}
+.logo{
+  width: 100%;
+  float: left;
+}
+.left{
+  float: left;
+  widht: 70%;
+  height:auto;
+  border-radius: 24px;
+}
+.right{
+  float: right;
+  widht: 30%;
+  height: auto;
+  border-radius: 24px;
+  background: green;
+}
+.left-button{
+  float: left;
+  width: 70%;
+  height: auto;
+  border-radius: 24px;
+  background: pink;
+}
+.logochallenge{
+  margin-top: 1%;
+  margin-left: 5%;
+  float: inherit;
+}
+.tittle{
+  float: inherit;
+  margin-left: 20%;
+}
+.text-input{
+  float: left;
+  margin-left: 20%;
+  margin-top: 10%;
+  widht: 90%;
+  height: 90%;
+  color: #0A3871;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  background: #F3F5FC;
+}
